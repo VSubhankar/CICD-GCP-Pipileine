@@ -1,6 +1,6 @@
 # CICD_GCP_Pipileine
 
-A CI/CD pipeline that automatically builds a container image from committed code, stores the image in Artifact Registry, updates a Kubernetes manifest in a Git repository, and deploys the application to Google Kubernetes Engine using that manifest.
+A Continous Integration and Delivery  pipeline that automatically builds a container image from committed code, stores the image in Artifact Registry, updates a Kubernetes manifest in a Git repository, and deploys the application to Google Kubernetes Engine using that manifest.
 
 The following documentation is modified version of a resource in certification
 source :- Google IT Automation with Python Professional Certificate-> Configuration Management and the Cloud -> Final Module Lab 
